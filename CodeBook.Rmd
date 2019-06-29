@@ -29,7 +29,7 @@ output: pdf_document
 
     'test/y_test.txt': Test labels.
 
-The following files are available for the train and test data. Their descriptions are equivalent.
+# The following files are available for the train and test data. Their descriptions are equivalent.
 
     'train/subject_train.txt': Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
 
@@ -44,7 +44,7 @@ Notes:
     Features are normalized and bounded within [-1,1].
     Each feature vector is a row on the text file.
 
-License:
+# License:
 
 Use of this dataset in publications must be acknowledged by referencing the following publication [1]
 
